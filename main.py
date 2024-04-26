@@ -1,6 +1,6 @@
 import random
 
-# Generate a random number between 1 and 100
+
 secret_number = random.randint(1, 100)
 max_attempts = 7  # Maximum number of attempts allowed
 attempts = 0
